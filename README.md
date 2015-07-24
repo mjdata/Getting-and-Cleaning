@@ -12,3 +12,22 @@ Extracting mean by aggregate function.
 
 #5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Using write table to creat new data set.
+
+Variables
+#Import data
+features
+activity_labels 
+subject_train
+X_train
+y_train
+subject_test
+X_test
+y_test
+
+#bind data
+train: All train data
+test: All test data
+final: train and test
+
+#tidy
+tidy data set
